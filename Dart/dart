@@ -8,6 +8,6 @@ Dart SDK 2.16 : 2021.02.04에 업데이트 됨. Flutter 2.10과 함께 업데이
 앱의 상태 또한 좋은데, 플러터 툴에서는 71%의 세션이 널 세이프티를 지원중이라는 통계가 잡혔음. 아무튼 좋은 징조다!
 다음 일정은 언어에 기능이 들어갈 것이며, 올해 늦은 날에 업데이트 될 것임!
 
-요약 : 기능 업데이트 X. 안정성 및 버그 개선, pub.dev 이용성 개선, null safety 소식 전하려 옴. 대체로 안정성에 대해 이야기 하려 
+요약 : 기능 업데이트 X. 안정성 및 버그 개선, pub.dev 이용성 개선, null safety 소식 전하려 옴. 대체로 안정성에 대해 이야기 하려 한다.
 
 출처 : https://medium.com/dartlang/dart-2-16-improved-tooling-and-platform-handling-dd87abd6bad1
