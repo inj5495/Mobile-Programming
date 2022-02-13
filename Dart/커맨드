@@ -1,0 +1,2 @@
+dart format
+`dart format` 커맨드는 과거의 `dartfmt` 커맨드를 대체한다. 다트 포맷 커맨드는 whitespace를 다트 가이드라인의 포맷에 맞추어 수정한다.(이 포맷은 Dart를 지원하는 IDE나 에디터를 사용할 때의 것과 같다.)
