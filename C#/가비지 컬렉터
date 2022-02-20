@@ -1,2 +1,4 @@
 C#에 내장되어 있는 가비지 컬렉터에 대해서 알아볼 것이다.
 주소 : https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/
+
+닷넷 가비지 컬렉터는 메모리의 할당 및 해제를 담당한다. 
